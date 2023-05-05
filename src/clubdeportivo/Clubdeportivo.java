@@ -12,6 +12,7 @@ public class Clubdeportivo {
         f.concentrarse();
         f.viajar();
         System.out.println(f.toString());
+        System.out.println("Hola mundo");
     }
 
 }
