@@ -13,6 +13,11 @@ public class Clubdeportivo {
         f.viajar();
         System.out.println(f.toString());
         System.out.println("Hola mundo");
+        
+        
+        Futbolista f2=new Futbolista(1, "Casillas", "Topo", 34, 1, "PorteroTopo");
+        f2.entrenar();
+        f2.viajar();
     }
 
 }
