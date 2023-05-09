@@ -23,6 +23,10 @@ public class Clubdeportivo {
         f2.entrenar();
         f2.viajar();
         
+        Futbolista f4=new Futbolista(4, "Manuel", "fumaporros", 34, 4, "Porrero");
+        f2.entrenar();
+        f2.viajar();
+        
         
         
         
