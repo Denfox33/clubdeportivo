@@ -18,6 +18,14 @@ public class Clubdeportivo {
         Futbolista f2=new Futbolista(1, "Casillas", "Topo", 34, 1, "PorteroTopo");
         f2.entrenar();
         f2.viajar();
+        
+        Futbolista f3=new Futbolista(2, "Hierro", "Fernando", 34, 4, "DestrozaPiernas");
+        f2.entrenar();
+        f2.viajar();
+        
+        
+        
+        
     }
 
 }
